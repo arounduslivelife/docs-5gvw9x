@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-a7jxtb.salamkita.sbs/sitemap.xml
